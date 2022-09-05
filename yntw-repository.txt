@@ -1,3 +1,4 @@
 YNTW resolusi
 - Hello World
--Saya belajar Github
+- Saya belajar Github
+- Saya belajar memahami cara kerja Github
