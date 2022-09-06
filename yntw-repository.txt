@@ -1,5 +1,5 @@
 YNTW resolusi
 - Saya belajar Github
-  * Dengan mendengar
+  * Dengan membaca
 - Saya belajar memahami cara kerja Github
 - Membuat repository sederhana
